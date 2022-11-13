@@ -39,4 +39,4 @@ class Comment(models.Model):
         ordering = ['created_on']
 
     def __str__(self):
-        return f"{self.name} said: {self.body}"
+        return f"{self.body} from {self.name}"

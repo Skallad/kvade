@@ -12,3 +12,5 @@
 ## Testing
 
 ## Credits
+
+I have taken help from the Code Institute module for developing my blog.
